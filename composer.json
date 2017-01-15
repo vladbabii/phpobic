@@ -1,6 +1,6 @@
 {
-    "name": "vladbabii/phpobia",
-    "description": "PHP Objects and Business Integration Automation",
+    "name": "vladbabii/phpobic",
+    "description": "PHP Helper Objects for Faster Developlment",
     "type": "library",
     "license": "Free to use",
     "authors": [
@@ -13,7 +13,7 @@
     "require": {},
 	"autoload": {
 		"psr-0" : {
-			"Phpobia": "src/"
+			"Phpobic": "src/"
 		}
 	}
 }
